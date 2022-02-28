@@ -1,0 +1,17 @@
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\bin\Debug\net6.0\Activity5.exe
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\bin\Debug\net6.0\Activity5.deps.json
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\bin\Debug\net6.0\Activity5.runtimeconfig.json
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\bin\Debug\net6.0\Activity5.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\bin\Debug\net6.0\ref\Activity5.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\bin\Debug\net6.0\Activity5.pdb
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.csproj.AssemblyReference.cache
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.AssemblyInfoInputs.cache
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.AssemblyInfo.cs
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.csproj.CoreCompileInputs.cache
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.csproj.CopyComplete
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\ref\Activity5.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.pdb
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\clientclass\Activity5\obj\Debug\net6.0\Activity5.genruntimeconfig.cache
